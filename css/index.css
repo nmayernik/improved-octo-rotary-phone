@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+sup { font-size: 60%; line-height: 0; position: relative; vertical-align: baseline; @apply text-red-900; @apply font-medium;}
+sup { top: -0.2em; vertical-align: super;}

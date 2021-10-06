@@ -1,5 +1,5 @@
 {
-  "name": "next-starter-tailwind",
+  "name": "nickmayernik",
   "version": "2.0.0",
   "description": "Next.js starter styled with Tailwind CSS",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/taylorbryant/next-starter-tailwind.git"
   },
-  "author": "Taylor Bryant",
+  "author": "Nick Mayernik",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/taylorbryant/next-starter-tailwind/issues"
